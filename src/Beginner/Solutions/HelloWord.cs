@@ -4,7 +4,7 @@
 */
 using System;
 
-namespace Uri.Projects.Beginner
+namespace Uri.Projects.Beginner.Solutions
 {
     public class HelloWord
     {

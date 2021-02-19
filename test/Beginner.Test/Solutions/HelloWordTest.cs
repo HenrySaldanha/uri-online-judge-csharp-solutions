@@ -1,7 +1,7 @@
-using Uri.Projects.Beginner;
+using Uri.Projects.Beginner.Solutions;
 using Xunit;
 
-namespace Beginner.Test
+namespace Beginner.Test.Solutions
 {
     public class HelloWordTest
     {
