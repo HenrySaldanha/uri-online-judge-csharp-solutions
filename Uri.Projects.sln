@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EF4CEF8F-BB6
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{D3A5DDA1-72A9-4B81-9B13-6082EFF5AE27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beginner", "src\Beginner\Beginner.csproj", "{4685AF33-AF10-4B3B-9970-57F27489A681}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beginner", "src\Beginner\Beginner.csproj", "{4685AF33-AF10-4B3B-9970-57F27489A681}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beginner.Test", "test\Beginner.Test\Beginner.Test.csproj", "{E52761F2-104E-4BD1-B313-9B49F40F5891}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beginner.Test", "test\Beginner.Test\Beginner.Test.csproj", "{E52761F2-104E-4BD1-B313-9B49F40F5891}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

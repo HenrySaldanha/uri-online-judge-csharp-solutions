@@ -6,11 +6,16 @@ namespace Beginner.Test.Solutions
     public class HelloWordTest
     {
         [Fact]
-        public void SolutionMustBeReturnSucess()
+        public void HelloWordMustBeReturnSucess()
         {
-            var solution = new HelloWordSolution().GetSolution();
+            // Arrange
+            var solution = new HelloWord();
 
-            Assert.Equal("Hello World!", solution);
+            // Act
+            var solutionResponse = solution.GetSolutionResponse();
+
+            // Assert
+            Assert.Equal("Hello World!", solutionResponse);
         }
     }
 }
